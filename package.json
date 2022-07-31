@@ -1,10 +1,10 @@
 {
   "name": "survey-api-clean-architecture",
   "version": "1.0.0",
-  "description": "",
+  "description": "This API is part of the training of Professor Rodrigo Manguinho (Mango) at Udemy.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch --passWithNoTests --runInBand --no-cache"
   },
   "repository": {
     "type": "git",
