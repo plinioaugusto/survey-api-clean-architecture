@@ -1,0 +1,26 @@
+{
+  "name": "survey-api-clean-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plinioaugusto/survey-api-clean-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plinioaugusto/survey-api-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/plinioaugusto/survey-api-clean-architecture#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "git-commit-msg-linter": "^4.1.3",
+    "typescript": "^4.7.4"
+  }
+}
